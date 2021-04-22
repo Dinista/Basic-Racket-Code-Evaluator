@@ -4,8 +4,8 @@
 This is a basic racket implementation of a <b>Racket language code evaluator</b> based on specific metrics. It's the second and final project for class LFPP (Logic and functional programming paradigms).
 
 ## Research on Metrics
-A research was made defining a group of metrics for code evaluation. Those metrics were applied in the implementation as base to evaluate the code.
-<br>There's a portuguese article formalizing this research, on path: <i>/docs</i></br>
+<p>A research was made defining a group of metrics for code evaluation. Those metrics were applied in the implementation as base to evaluate the code.</p>
+<p>There's a portuguese article formalizing this research, on path: <i>/docs</i></p>
 
 ## How to use
 
@@ -26,7 +26,8 @@ The output is a list of metrics based on the source code, such as:
 A weighting it's applied on each metric, and it's used to calculate a final score for the respective source code.
 
 ## Analysis and tests
-A group of racket source codes with the same proprouse was choosen and passed through the algorithm. A portuguese article was written analysing those results. In path <i>/docs</i> you can find the analysis article.
+<p>A group of racket source codes with the same proprouse was choosen and passed through the algorithm. </p>
+<p>A portuguese article was written analysing those results. In path <i>/docs</i> you can find the analysis article.</p>
 
 
 #### Tests
