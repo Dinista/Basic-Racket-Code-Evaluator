@@ -20,7 +20,7 @@ The output is a list of metrics based on the source code, such as:
 <ul style = "color: red;">
 <li>Total number of lines;</li>
 <li>Total number of comments;</li>
-<li>Total number of functions greater than five lines.</li>
+<li>Total number of lines greater than 80 characters;</li>
 </ul>
 
 A weighting it's applied on each metric, and it's used to calculate a final score for the respective source code.
