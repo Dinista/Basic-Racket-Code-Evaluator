@@ -1,4 +1,4 @@
-# Basic-Racket-Code-Evaluator
+# Racket-Code-Evaluator
 
 ## Introduction
 This is a basic racket implementation of a <b>Racket language code evaluator</b> based on specific metrics. It's the second and final project for class LFPP (Logic and functional programming paradigms).
